@@ -1,6 +1,6 @@
 # Projetos de Sistemas Embarcados - EmbarcaTech 2025
 
-Autor: **(insira seu nome)**
+Autor: Rafael Camargo de Magalhães
 
 Curso: Residência Tecnológica em Sistemas Embarcados
 
@@ -18,6 +18,28 @@ Cada projeto tem sua própria pasta, contendo o código-fonte, documentação e 
 
 ---
 
-## O que fazer com este arquivo
+## Lista de projetos:
 
-Ao fazer o *fork* do repositório, o aluno está livre para modificar este arquivo como quiser dentro do seu próprio *fork*.
+| Projeto | Descrição |
+|---------|-----------|
+| [Projeto 1](./linkdoprojeto1/) | Descrição do projeto |
+| [Projeto 2](./linkdoprojeto2/) | Descrição do projeto |
+| [Projeto 3](./linkdoprojeto3/) | Descrição do projeto |
+
+---
+
+##  Diário de Bordo (Reflexões e Aprendizados)
+
+Ao longo do curso, esta seção será atualizada com os principais aprendizados, desafios enfrentados e soluções encontradas por cada participante. Esta prática ajuda a documentar a jornada de desenvolvimento e facilita a revisão futura.
+
+### Seamana 1
+
+- Aprendi a utilizar o GitHub, criando este repositório e fazendo uso do manual de boas práticas
+
+---
+
+## Licença
+
+GPL-3.0
+
+
